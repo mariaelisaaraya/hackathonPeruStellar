@@ -41,7 +41,7 @@ Los 30 puntajes ya están cargados en el panel oficial del jurado; esto queda co
 | 19 | Naru | AI Agents | 4 | 2 ⚠ | 3 | 3 | 1 📉🎥 | **2.85** |
 | 22 | PagaJusto | AI Agents | 3 | 3 | 2 | 3 | 1 📉🎥 | **2.60** |
 
-⚠ = ver hallazgo en la tabla de integración técnica. 📉 = Claridad bajada por README corto. 🎥 = Claridad bajada (o ya en piso) tras mirar el video demo real — ver detalle abajo.
+⚠ = ver hallazgo en la tabla de integración técnica. 📉 = Claridad bajada por README corto. 🎥 = Claridad bajada (o ya en piso) tras mirar el video demo real.
 
 **Criterio de palabras de README (parte del puntaje de Claridad):** ≤700 → 1 · 700–1000 → 2 · 1000–1500 → 3 · 1500–2500 → 4 · >2500 → 5 (salvo flags de links duplicados o rotos, que bajan el puntaje aparte). Cayeron por este criterio: OSS 402 (428 palabras), StellarYield AI (663), VoxPay (784), PULS3 (890), Naru (945), Escala (998), LocalLoop (1044), Hito (1152), Vera (1246), Ayni (1274), Masi (1300).
 
@@ -80,50 +80,9 @@ Los 30 puntajes ya están cargados en el panel oficial del jurado; esto queda co
 | 29 | Vera | Soroban | Contrato `spending_vault` (tesorería, reembolsos automatizados), con tests. |
 | 30 | VoxPay | Soroban | Contrato `voxpay`: reparto atómico de pago en una sola transacción. |
 
-## Revisión de los videos demo
-
-Además de confirmar que los links abrieran, miré el contenido real de cada video demo (el que pesa en el criterio de Claridad; el video pitch quedó fuera de este criterio porque el rubric nombra solo "video demo"). Encontré tres tipos de problema y a cada uno le resté 1 punto de Claridad (acumulable hasta -2 si un proyecto tenía dos problemas a la vez, con piso en 1):
-
-- **Sin audio**: no se puede seguir la explicación, solo el walkthrough visual.
-- **Demasiado largo** (6+ minutos sin editar): un demo así de extenso es un problema de producción para quien revisa 30 proyectos.
-- **Mal editado / confuso**: el video no funciona como demo real (redirige a un documento, es difícil de entender, etc).
-
-| # | Proyecto | Hallazgo del video demo |
-|---|---|---|
-| 1 | Aegis | Sin audio |
-| 2 | AgenteKipu | 8 minutos |
-| 3 | AgreedPay | Bien |
-| 4 | ArenaPay | Bien, 4 minutos |
-| 5 | Ayni | Mal editado, redirige a un documento en vez de mostrar un demo |
-| 6 | CanguPAY | 9 minutos |
-| 7 | Chocolatito | Sin audio |
-| 8 | CrimsonSentry | 7-8 minutos |
-| 9 | DeRaíz | El mejor editado de los 30 |
-| 10 | Eco Bonus | 6 minutos (con audio) |
-| 11 | Escala | 5 minutos con muchas pausas |
-| 12 | EscudoPay | Sin audio |
-| 13 | Hito | Bien |
-| 14 | Honorarios | Bien |
-| 15 | LocalLoop | 7 minutos |
-| 16 | Masi | 6 minutos (con audio) |
-| 17 | MergePay | 11 minutos |
-| 18 | Minka Capital | Bien |
-| 19 | Naru | 8 minutos |
-| 20 | NikoSun | 10 minutos |
-| 21 | OSS 402 | 9 minutos |
-| 22 | PagaJusto | 11 minutos |
-| 23 | Pakta | Sin audio |
-| 24 | Paul | 8 minutos |
-| 25 | PULS3 | Video confuso, cuesta entender qué muestra |
-| 26 | Qhapaq | Bastante bien |
-| 27 | Stellar Rail | Buena duración, aunque se nota una voz narrada por IA |
-| 28 | StellarYield AI | No tiene video demo propio (solo pitch, que está bien) |
-| 29 | Vera | Buen video |
-| 30 | VoxPay | Mal editado y lento, pero tiene audio y se entiende |
-
 ## Links por proyecto
 
-Para los videos usé los links de abajo; cuando hay inconsistencias entre demo y pitch (por ejemplo, apuntando al mismo video) lo marco.
+El video demo de cada proyecto fue revisado para definir el puntaje de Claridad. Cuando hay inconsistencias entre demo y pitch (por ejemplo, apuntando al mismo video), lo marco.
 
 | # | Proyecto | Repo | App | Evidencia on-chain | Video demo | Video pitch |
 |---|---|---|---|---|---|---|
