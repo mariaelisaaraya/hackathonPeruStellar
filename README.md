@@ -11,37 +11,37 @@ Los 30 puntajes ya están cargados en el panel oficial del jurado; esto queda co
 | # | Proyecto | Track | Func (30%) | Integración (25%) | Originalidad (20%) | Viabilidad (15%) | Claridad (10%) | **Total /5** |
 |---|---|---|:-:|:-:|:-:|:-:|:-:|:-:|
 | 14 | Honorarios | RWA & Compliance | 5 | 5 | 5 | 4 | 4 ⚠ | **4.75** |
-| 23 | Pakta | AI Agents | 5 | 5 | 5 | 4 | 4 | **4.75** |
 | 4 | ArenaPay | Gaming & Physics | 5 | 5 | 5 | 3 | 5 | **4.70** |
-| 6 | CanguPAY | AI Agents | 5 | 5 | 4 | 5 | 4 | **4.70** |
-| 24 | Paul | RWA & Compliance | 5 | 4 | 5 | 4 | 5 | **4.60** |
-| 20 | NikoSun | RWA & Compliance | 5 | 4 | 5 | 4 | 4 | **4.50** |
-| 8 | CrimsonSentry | Research & Crypto | 4 | 5 | 5 | 4 | 4 | **4.45** |
-| 10 | Eco Bonus | Gaming & Physics | 5 | 5 | 3 | 4 | 4 | **4.35** |
-| 16 | Masi | Open Build | 5 | 5 | 3 | 4 | 3 📉 | **4.25** |
-| 17 | MergePay | AI Agents | 5 | 4 | 4 | 3 | 4 | **4.15** |
+| 23 | Pakta | AI Agents | 5 | 5 | 5 | 4 | 3 🎥 | **4.65** |
+| 6 | CanguPAY | AI Agents | 5 | 5 | 4 | 5 | 3 🎥 | **4.60** |
+| 24 | Paul | RWA & Compliance | 5 | 4 | 5 | 4 | 4 🎥 | **4.50** |
+| 20 | NikoSun | RWA & Compliance | 5 | 4 | 5 | 4 | 3 🎥 | **4.40** |
+| 8 | CrimsonSentry | Research & Crypto | 4 | 5 | 5 | 4 | 3 🎥 | **4.35** |
+| 10 | Eco Bonus | Gaming & Physics | 5 | 5 | 3 | 4 | 3 🎥 | **4.25** |
+| 16 | Masi | Open Build | 5 | 5 | 3 | 4 | 2 📉🎥 | **4.15** |
 | 3 | AgreedPay | RWA & Compliance | 5 | 4 | 3 | 4 | 4 | **4.10** |
+| 17 | MergePay | AI Agents | 5 | 4 | 4 | 3 | 3 🎥 | **4.05** |
 | 9 | DeRaíz | RWA & Compliance | 4 | 4 | 4 | 4 | 4 | **4.00** |
-| 2 | AgenteKipu | AI Agents | 4 | 3 | 5 | 4 | 4 | **3.95** |
-| 7 | Chocolatito | AI Agents | 5 | 2 | 5 | 3 | 5 | **3.95** |
 | 29 | Vera | Realtime Finance | 4 | 4 | 4 | 4 | 3 📉 | **3.90** |
-| 30 | VoxPay | Open Build | 4 | 4 | 4 | 4 | 2 📉 | **3.80** |
-| 1 | Aegis | AI Agents | 4 | 3 | 4 | 4 | 4 | **3.75** |
-| 21 | OSS 402 | AI Agents | 3 | 5 | 5 | 3 | 1 📉 | **3.70** |
-| 5 | Ayni | Open Build | 4 | 3 | 4 | 4 | 3 📉 | **3.65** |
-| 25 | PULS3 | AI Agents | 2 ⚠ | 5 | 5 | 4 | 2 📉 | **3.65** |
+| 2 | AgenteKipu | AI Agents | 4 | 3 | 5 | 4 | 3 🎥 | **3.85** |
+| 7 | Chocolatito | AI Agents | 5 | 2 | 5 | 3 | 4 🎥 | **3.85** |
+| 21 | OSS 402 | AI Agents | 3 | 5 | 5 | 3 | 1 📉🎥 | **3.70** |
+| 30 | VoxPay | Open Build | 4 | 4 | 4 | 4 | 1 📉🎥 | **3.70** |
+| 1 | Aegis | AI Agents | 4 | 3 | 4 | 4 | 3 🎥 | **3.65** |
 | 18 | Minka Capital | Realtime Finance | 4 | 3 ⚠ | 4 | 3 | 4 | **3.60** |
-| 11 | Escala | Open Build | 4 | 3 | 4 | 4 | 2 📉 | **3.55** |
-| 12 | EscudoPay | Research & Crypto | 3 | 3 | 5 | 3 | 4 | **3.50** |
+| 5 | Ayni | Open Build | 4 | 3 | 4 | 4 | 2 📉🎥 | **3.55** |
+| 25 | PULS3 | AI Agents | 2 ⚠ | 5 | 5 | 4 | 1 📉🎥 | **3.55** |
+| 11 | Escala | Open Build | 4 | 3 | 4 | 4 | 1 📉🎥 | **3.45** |
+| 12 | EscudoPay | Research & Crypto | 3 | 3 | 5 | 3 | 3 🎥 | **3.40** |
 | 26 | Qhapaq | RWA & Compliance | 4 | 3 | 3 | 3 | 4 | **3.40** |
 | 13 | Hito | Open Build | 3 | 4 | 4 | 3 | 2 📉 | **3.35** |
 | 27 | Stellar Rail | RWA & Compliance | 3 | 3 | 4 | 4 | 3 ⚠ | **3.35** |
-| 28 | StellarYield AI | AI Agents | 4 | 4 | 3 | 3 | 1 📉 | **3.35** |
-| 15 | LocalLoop | Open Build | 4 | 3 | 3 | 3 | 2 📉 | **3.20** |
-| 19 | Naru | AI Agents | 4 | 2 ⚠ | 3 | 3 | 2 📉 | **2.95** |
-| 22 | PagaJusto | AI Agents | 3 | 3 | 2 | 3 | 2 | **2.70** |
+| 28 | StellarYield AI | AI Agents | 4 | 4 | 3 | 3 | 1 📉🎥 | **3.35** |
+| 15 | LocalLoop | Open Build | 4 | 3 | 3 | 3 | 1 📉🎥 | **3.10** |
+| 19 | Naru | AI Agents | 4 | 2 ⚠ | 3 | 3 | 1 📉🎥 | **2.85** |
+| 22 | PagaJusto | AI Agents | 3 | 3 | 2 | 3 | 1 📉🎥 | **2.60** |
 
-⚠ = ver hallazgo en la tabla de integración técnica. 📉 = Claridad bajada por README corto (ver detalle abajo).
+⚠ = ver hallazgo en la tabla de integración técnica. 📉 = Claridad bajada por README corto. 🎥 = Claridad bajada (o ya en piso) tras mirar el video demo real — ver detalle abajo.
 
 **Criterio de palabras de README (parte del puntaje de Claridad):** ≤700 → 1 · 700–1000 → 2 · 1000–1500 → 3 · 1500–2500 → 4 · >2500 → 5 (salvo flags de links duplicados o rotos, que bajan el puntaje aparte). Cayeron por este criterio: OSS 402 (428 palabras), StellarYield AI (663), VoxPay (784), PULS3 (890), Naru (945), Escala (998), LocalLoop (1044), Hito (1152), Vera (1246), Ayni (1274), Masi (1300).
 
@@ -80,9 +80,50 @@ Los 30 puntajes ya están cargados en el panel oficial del jurado; esto queda co
 | 29 | Vera | Soroban | Contrato `spending_vault` (tesorería, reembolsos automatizados), con tests. |
 | 30 | VoxPay | Soroban | Contrato `voxpay`: reparto atómico de pago en una sola transacción. |
 
+## Revisión de los videos demo
+
+Además de confirmar que los links abrieran, miré el contenido real de cada video demo (el que pesa en el criterio de Claridad; el video pitch quedó fuera de este criterio porque el rubric nombra solo "video demo"). Encontré tres tipos de problema y a cada uno le resté 1 punto de Claridad (acumulable hasta -2 si un proyecto tenía dos problemas a la vez, con piso en 1):
+
+- **Sin audio**: no se puede seguir la explicación, solo el walkthrough visual.
+- **Demasiado largo** (6+ minutos sin editar): un demo así de extenso es un problema de producción para quien revisa 30 proyectos.
+- **Mal editado / confuso**: el video no funciona como demo real (redirige a un documento, es difícil de entender, etc).
+
+| # | Proyecto | Hallazgo del video demo |
+|---|---|---|
+| 1 | Aegis | Sin audio |
+| 2 | AgenteKipu | 8 minutos |
+| 3 | AgreedPay | Bien |
+| 4 | ArenaPay | Bien, 4 minutos |
+| 5 | Ayni | Mal editado, redirige a un documento en vez de mostrar un demo |
+| 6 | CanguPAY | 9 minutos |
+| 7 | Chocolatito | Sin audio |
+| 8 | CrimsonSentry | 7-8 minutos |
+| 9 | DeRaíz | El mejor editado de los 30 |
+| 10 | Eco Bonus | 6 minutos (con audio) |
+| 11 | Escala | 5 minutos con muchas pausas |
+| 12 | EscudoPay | Sin audio |
+| 13 | Hito | Bien |
+| 14 | Honorarios | Bien |
+| 15 | LocalLoop | 7 minutos |
+| 16 | Masi | 6 minutos (con audio) |
+| 17 | MergePay | 11 minutos |
+| 18 | Minka Capital | Bien |
+| 19 | Naru | 8 minutos |
+| 20 | NikoSun | 10 minutos |
+| 21 | OSS 402 | 9 minutos |
+| 22 | PagaJusto | 11 minutos |
+| 23 | Pakta | Sin audio |
+| 24 | Paul | 8 minutos |
+| 25 | PULS3 | Video confuso, cuesta entender qué muestra |
+| 26 | Qhapaq | Bastante bien |
+| 27 | Stellar Rail | Buena duración, aunque se nota una voz narrada por IA |
+| 28 | StellarYield AI | No tiene video demo propio (solo pitch, que está bien) |
+| 29 | Vera | Buen video |
+| 30 | VoxPay | Mal editado y lento, pero tiene audio y se entiende |
+
 ## Links por proyecto
 
-No miré el contenido de los videos — solo confirmé que los links abren y, cuando hay inconsistencias (por ejemplo demo y pitch apuntando al mismo video), lo marco.
+Para los videos usé los links de abajo; cuando hay inconsistencias entre demo y pitch (por ejemplo, apuntando al mismo video) lo marco.
 
 | # | Proyecto | Repo | App | Evidencia on-chain | Video demo | Video pitch |
 |---|---|---|---|---|---|---|
@@ -122,4 +163,5 @@ No miré el contenido de los videos — solo confirmé que los links abren y, cu
 - Extraje los entregables directamente del panel de jurado (descripción, problema que resuelven, cómo usan Stellar, links).
 - Cloné cada repo (`git clone --depth 100`) y revisé README, historial de commits, señales de uso de `stellar-sdk`/`soroban-sdk`, archivos de contrato en Rust y archivos de test.
 - Verifiqué cada link de evidencia on-chain contra la API pública `api.stellar.expert/explorer/testnet/{tx|contract}/...` para confirmar que la transacción o el contrato existen realmente en testnet.
+- Miré el video demo de cada proyecto y ajusté el puntaje de Claridad cuando encontré videos sin audio, demasiado largos (6+ min) o mal editados/confusos.
 - Con esa base, puntué los 5 criterios del rubric oficial y dejé feedback puntual a cada equipo.
