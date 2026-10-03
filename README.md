@@ -11,39 +11,39 @@ Los 30 puntajes ya están cargados en el panel oficial del jurado; esto queda co
 | # | Proyecto | Track | Func (30%) | Integración (25%) | Originalidad (20%) | Viabilidad (15%) | Claridad (10%) | **Total /5** |
 |---|---|---|:-:|:-:|:-:|:-:|:-:|:-:|
 | 14 | Honorarios | RWA & Compliance | 5 | 5 | 5 | 4 | 4 ⚠ | **4.75** |
+| 23 | Pakta | AI Agents | 5 | 5 | 5 | 4 | 4 🎥 | **4.75** |
 | 4 | ArenaPay | Gaming & Physics | 5 | 5 | 5 | 3 | 5 | **4.70** |
-| 23 | Pakta | AI Agents | 5 | 5 | 5 | 4 | 3 🎥 | **4.65** |
-| 6 | CanguPAY | AI Agents | 5 | 5 | 4 | 5 | 3 🎥 | **4.60** |
+| 6 | CanguPAY | AI Agents | 5 | 5 | 4 | 5 | 4 🎥 | **4.70** |
+| 20 | NikoSun | RWA & Compliance | 5 | 4 | 5 | 4 | 4 🎥 | **4.50** |
 | 24 | Paul | RWA & Compliance | 5 | 4 | 5 | 4 | 4 🎥 | **4.50** |
-| 20 | NikoSun | RWA & Compliance | 5 | 4 | 5 | 4 | 3 🎥 | **4.40** |
-| 8 | CrimsonSentry | Research & Crypto | 4 | 5 | 5 | 4 | 3 🎥 | **4.35** |
+| 8 | CrimsonSentry | Research & Crypto | 4 | 5 | 5 | 4 | 4 🎥 | **4.45** |
+| 16 | Masi | Open Build | 5 | 5 | 3 | 4 | 4 🎥 | **4.35** |
 | 10 | Eco Bonus | Gaming & Physics | 5 | 5 | 3 | 4 | 3 🎥 | **4.25** |
-| 16 | Masi | Open Build | 5 | 5 | 3 | 4 | 2 📉🎥 | **4.15** |
-| 3 | AgreedPay | RWA & Compliance | 5 | 4 | 3 | 4 | 4 | **4.10** |
+| 3 | AgreedPay | RWA & Compliance | 5 | 4 | 3 | 4 | 5 | **4.20** |
+| 9 | DeRaíz | RWA & Compliance | 4 | 4 | 4 | 4 | 5 | **4.10** |
 | 17 | MergePay | AI Agents | 5 | 4 | 4 | 3 | 3 🎥 | **4.05** |
-| 9 | DeRaíz | RWA & Compliance | 4 | 4 | 4 | 4 | 4 | **4.00** |
-| 29 | Vera | Realtime Finance | 4 | 4 | 4 | 4 | 3 📉 | **3.90** |
-| 2 | AgenteKipu | AI Agents | 4 | 3 | 5 | 4 | 3 🎥 | **3.85** |
+| 29 | Vera | Realtime Finance | 4 | 4 | 4 | 4 | 4 | **4.00** |
+| 2 | AgenteKipu | AI Agents | 4 | 3 | 5 | 4 | 4 🎥 | **3.95** |
 | 7 | Chocolatito | AI Agents | 5 | 2 | 5 | 3 | 4 🎥 | **3.85** |
-| 21 | OSS 402 | AI Agents | 3 | 5 | 5 | 3 | 1 📉🎥 | **3.70** |
-| 30 | VoxPay | Open Build | 4 | 4 | 4 | 4 | 1 📉🎥 | **3.70** |
-| 1 | Aegis | AI Agents | 4 | 3 | 4 | 4 | 3 🎥 | **3.65** |
-| 18 | Minka Capital | Realtime Finance | 4 | 3 ⚠ | 4 | 3 | 4 | **3.60** |
-| 5 | Ayni | Open Build | 4 | 3 | 4 | 4 | 2 📉🎥 | **3.55** |
-| 25 | PULS3 | AI Agents | 2 ⚠ | 5 | 5 | 4 | 1 📉🎥 | **3.55** |
-| 11 | Escala | Open Build | 4 | 3 | 4 | 4 | 1 📉🎥 | **3.45** |
-| 12 | EscudoPay | Research & Crypto | 3 | 3 | 5 | 3 | 3 🎥 | **3.40** |
+| 30 | VoxPay | Open Build | 4 | 4 | 4 | 4 | 2 🎥 | **3.80** |
+| 1 | Aegis | AI Agents | 4 | 3 | 4 | 4 | 4 🎥 | **3.75** |
+| 5 | Ayni | Open Build | 4 | 3 | 4 | 4 | 4 🎥 | **3.75** |
+| 11 | Escala | Open Build | 4 | 3 | 4 | 4 | 4 🎥 | **3.75** |
+| 25 | PULS3 | AI Agents | 2 ⚠ | 5 | 5 | 4 | 3 ⚠ | **3.75** |
+| 18 | Minka Capital | Realtime Finance | 4 | 3 ⚠ | 4 | 3 | 5 | **3.70** |
+| 21 | OSS 402 | AI Agents | 3 | 5 | 5 | 3 | 1 🎥 | **3.70** |
+| 13 | Hito | Open Build | 3 | 4 | 4 | 3 | 4 | **3.55** |
+| 12 | EscudoPay | Research & Crypto | 3 | 3 | 5 | 3 | 4 🎥 | **3.50** |
+| 27 | Stellar Rail | RWA & Compliance | 3 | 3 | 4 | 4 | 4 ⚠ | **3.45** |
+| 28 | StellarYield AI | AI Agents | 4 | 4 | 3 | 3 | 2 🎥 | **3.45** |
 | 26 | Qhapaq | RWA & Compliance | 4 | 3 | 3 | 3 | 4 | **3.40** |
-| 13 | Hito | Open Build | 3 | 4 | 4 | 3 | 2 📉 | **3.35** |
-| 27 | Stellar Rail | RWA & Compliance | 3 | 3 | 4 | 4 | 3 ⚠ | **3.35** |
-| 28 | StellarYield AI | AI Agents | 4 | 4 | 3 | 3 | 1 📉🎥 | **3.35** |
-| 15 | LocalLoop | Open Build | 4 | 3 | 3 | 3 | 1 📉🎥 | **3.10** |
-| 19 | Naru | AI Agents | 4 | 2 ⚠ | 3 | 3 | 1 📉🎥 | **2.85** |
-| 22 | PagaJusto | AI Agents | 3 | 3 | 2 | 3 | 1 📉🎥 | **2.60** |
+| 15 | LocalLoop | Open Build | 4 | 3 | 3 | 3 | 2 🎥 | **3.20** |
+| 19 | Naru | AI Agents | 4 | 2 ⚠ | 3 | 3 | 1 🎥 | **2.85** |
+| 22 | PagaJusto | AI Agents | 3 | 3 | 2 | 3 | 2 🎥 | **2.70** |
 
-⚠ = ver hallazgo en la tabla de integración técnica. 📉 = Claridad bajada por README corto. 🎥 = Claridad bajada (o ya en piso) tras mirar el video demo real.
+⚠ = ver hallazgo en la tabla de integración técnica. 🎥 = Claridad ajustada tras mirar el video demo real (sin audio, demasiado largo, o mal editado/confuso).
 
-**Criterio de palabras de README (parte del puntaje de Claridad):** ≤700 → 1 · 700–1000 → 2 · 1000–1500 → 3 · 1500–2500 → 4 · >2500 → 5 (salvo flags de links duplicados o rotos, que bajan el puntaje aparte). Cayeron por este criterio: OSS 402 (428 palabras), StellarYield AI (663), VoxPay (784), PULS3 (890), Naru (945), Escala (998), LocalLoop (1044), Hito (1152), Vera (1246), Ayni (1274), Masi (1300).
+Claridad se evalúa leyendo el README completo de cada proyecto (no por conteo de palabras) y mirando su video demo real; ambas señales se combinan en un solo puntaje de 1 a 5. Una revisión posterior corrigió varios puntajes que un criterio inicial basado en longitud de README había subestimado injustamente (READMEs densos en tablas/diagramas en vez de prosa, como Escala, CanguPAY o Masi).
 
 ## Detalle de integración técnica con Stellar
 
